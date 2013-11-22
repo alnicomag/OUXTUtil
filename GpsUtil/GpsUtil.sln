@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GpsUtil", "GpsUtil\GpsUtil.csproj", "{EB7D166A-59FF-455A-BB5D-0B5D64D2BE93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GpsUtilTest", "GpsUtilTest\GpsUtilTest.csproj", "{8FAD62CB-908A-4FC8-B25D-C592105B85C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{EB7D166A-59FF-455A-BB5D-0B5D64D2BE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB7D166A-59FF-455A-BB5D-0B5D64D2BE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB7D166A-59FF-455A-BB5D-0B5D64D2BE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAD62CB-908A-4FC8-B25D-C592105B85C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAD62CB-908A-4FC8-B25D-C592105B85C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAD62CB-908A-4FC8-B25D-C592105B85C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAD62CB-908A-4FC8-B25D-C592105B85C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
